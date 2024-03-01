@@ -1,0 +1,15 @@
+D:\Mini Project\Tourice\TouriceServices\bin\Debug\net6.0\TouriceServices.deps.json
+D:\Mini Project\Tourice\TouriceServices\bin\Debug\net6.0\TouriceServices.dll
+D:\Mini Project\Tourice\TouriceServices\bin\Debug\net6.0\TouriceServices.pdb
+D:\Mini Project\Tourice\TouriceServices\bin\Debug\net6.0\TouriceDatabases.dll
+D:\Mini Project\Tourice\TouriceServices\bin\Debug\net6.0\TouriceDatabases.pdb
+D:\Mini Project\Tourice\TouriceServices\obj\Debug\net6.0\TouriceServices.csproj.AssemblyReference.cache
+D:\Mini Project\Tourice\TouriceServices\obj\Debug\net6.0\TouriceServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mini Project\Tourice\TouriceServices\obj\Debug\net6.0\TouriceServices.AssemblyInfoInputs.cache
+D:\Mini Project\Tourice\TouriceServices\obj\Debug\net6.0\TouriceServices.AssemblyInfo.cs
+D:\Mini Project\Tourice\TouriceServices\obj\Debug\net6.0\TouriceServices.csproj.CoreCompileInputs.cache
+D:\Mini Project\Tourice\TouriceServices\obj\Debug\net6.0\TouriceServices.csproj.CopyComplete
+D:\Mini Project\Tourice\TouriceServices\obj\Debug\net6.0\TouriceServices.dll
+D:\Mini Project\Tourice\TouriceServices\obj\Debug\net6.0\refint\TouriceServices.dll
+D:\Mini Project\Tourice\TouriceServices\obj\Debug\net6.0\TouriceServices.pdb
+D:\Mini Project\Tourice\TouriceServices\obj\Debug\net6.0\ref\TouriceServices.dll

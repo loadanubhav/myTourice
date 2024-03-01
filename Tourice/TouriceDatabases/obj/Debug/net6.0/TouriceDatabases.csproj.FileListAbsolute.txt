@@ -1,0 +1,14 @@
+D:\Mini Project\Tourice\TouriceDatabases\bin\Debug\net6.0\TouriceDatabases.deps.json
+D:\Mini Project\Tourice\TouriceDatabases\bin\Debug\net6.0\TouriceDatabases.runtimeconfig.json
+D:\Mini Project\Tourice\TouriceDatabases\bin\Debug\net6.0\TouriceDatabases.dll
+D:\Mini Project\Tourice\TouriceDatabases\bin\Debug\net6.0\TouriceDatabases.pdb
+D:\Mini Project\Tourice\TouriceDatabases\obj\Debug\net6.0\TouriceDatabases.csproj.AssemblyReference.cache
+D:\Mini Project\Tourice\TouriceDatabases\obj\Debug\net6.0\TouriceDatabases.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mini Project\Tourice\TouriceDatabases\obj\Debug\net6.0\TouriceDatabases.AssemblyInfoInputs.cache
+D:\Mini Project\Tourice\TouriceDatabases\obj\Debug\net6.0\TouriceDatabases.AssemblyInfo.cs
+D:\Mini Project\Tourice\TouriceDatabases\obj\Debug\net6.0\TouriceDatabases.csproj.CoreCompileInputs.cache
+D:\Mini Project\Tourice\TouriceDatabases\obj\Debug\net6.0\TouriceDatabases.dll
+D:\Mini Project\Tourice\TouriceDatabases\obj\Debug\net6.0\refint\TouriceDatabases.dll
+D:\Mini Project\Tourice\TouriceDatabases\obj\Debug\net6.0\TouriceDatabases.pdb
+D:\Mini Project\Tourice\TouriceDatabases\obj\Debug\net6.0\TouriceDatabases.genruntimeconfig.cache
+D:\Mini Project\Tourice\TouriceDatabases\obj\Debug\net6.0\ref\TouriceDatabases.dll
